@@ -24,4 +24,4 @@ A collection of C programming projects covering various algorithms and data stru
 - I enjoy teaching **programming** through video tutorials and blogs.
 
 ## 📝 License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![MIT License](https://img.shields.io/github/license/RenzyAmstrg/Renzy)
