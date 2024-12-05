@@ -24,5 +24,5 @@ A collection of C programming projects covering various algorithms and data stru
 - I enjoy teaching **programming** through video tutorials and blogs.
 
 ## 📝 License:
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+![MIT License](https://img.shields.io/badge/LICENSE-MIT-blue.svg)
 This repository is licensed under the MIT License.
