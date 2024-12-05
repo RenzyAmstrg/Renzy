@@ -1,6 +1,6 @@
 # Hi, I'm Renzy! 👋
 
-Welcome to my GitHub profile. I'm a passionate C++ developer and open-source enthusiast. I enjoy working on interesting projects, especially related to programming languages and systems development!
+Welcome to my GitHub profile. I'm a passionate C++ developer and open-source enthusiast. I enjoy working on interesting projects, especially related to programming languages, systems development, and learning new technologies!
 
 ## 🛠 Technologies & Tools:
 - **Languages**: C++, Python, JavaScript
@@ -13,10 +13,10 @@ Welcome to my GitHub profile. I'm a passionate C++ developer and open-source ent
 
 ## 🚀 Featured Projects:
 ### [C++ Code](https://github.com/RenzyAmstrg/C-Code)  
-A collection of C programming projects covering various algorithms and data structures. Useful for learning and practicing core programming concepts.
+A collection of C programming projects covering various algorithms and data structures. Great for learning and practicing core programming concepts.
 
 ## 🤝 Connect with Me:
-- **Email**: renzyarmstrong@gmail.com
+- **Email**: [renzyarmstrong@gmail.com](mailto:renzyarmstrong@gmail.com)
 
 ## ⚡ Fun Facts:
 - I'm currently learning **Machine Learning**.
@@ -25,3 +25,4 @@ A collection of C programming projects covering various algorithms and data stru
 
 ## 📝 License:
 ![MIT License](https://img.shields.io/github/license/RenzyAmstrg/Renzy/LICENSE)
+This repository is licensed under the MIT License.
